@@ -1,0 +1,21 @@
+# Back-garden fence. Lengths use the units line; comments start with #.
+units m
+height 1.2
+buried 0.6
+spacing 2.4
+rails 3
+pickets 0.10 0.02
+stock 2.4
+kerf 0.003
+hole 0.30
+bag 0.0125
+waste 5
+
+price post 14.50
+price board 7.80
+price bag 6.20
+
+run north 12.0 gate 1.0@4.0
+run east 9.0
+run south 12.0
+run west 9.0 gate 1.2@3.0
